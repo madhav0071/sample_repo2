@@ -2,4 +2,5 @@
 
 This is my first repo
 <br>
-Author -Madhav Sharma
+Author -Madhav Sharma ,
+college -chitkara university
